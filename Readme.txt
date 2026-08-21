@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy [Tu Nombre]
+👋 ¡Hola! Soy [Andy]
 
 🎓 Estudiante de Ingeniería de Sistemas en la Universidad Privada del Norte (UPN).
 💻 Apasionado por la programación, el desarrollo de software y la tecnología.
